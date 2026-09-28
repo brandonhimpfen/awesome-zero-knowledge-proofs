@@ -69,6 +69,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Aztec Protocol](https://github.com/AztecProtocol)** – Ethereum-based privacy protocol using zk-SNARKs.
 - **[Aleo](https://www.aleo.org/)** – Zero-knowledge blockchain for private apps using the Leo language.
 - **[zkSync](https://zksync.io/)** – Layer 2 scaling solution using zero-knowledge rollups.
+- **[Zecnero](https://gitlab.com/zecnero/zecnerod)** – Zcash fork (Rust, Zebra) with Sapling and Orchard zk-SNARK shielded pools and RandomX proof of work.
 
 ## Communities and Organizations
 
